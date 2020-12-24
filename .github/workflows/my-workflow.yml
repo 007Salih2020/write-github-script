@@ -1,6 +1,8 @@
  name: Learning GitHub Script
 
-on:
+ 
+ 
+ on: push
   issues:
     types: [opened]
 
